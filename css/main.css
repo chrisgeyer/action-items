@@ -106,6 +106,7 @@ textarea {
   .floor h1 {text-align: center; color:#003D4C;}
   .floor ul {margin:1em; padding:0;}
   .floor li {list-style:none; background:#fff; padding:1em; border:1px solid #999; border-radius:3px; margin-bottom:1em;}
+  .dude {background:#FF5C39; color:#fff; padding:0.5em; float:right; border-radius:20px; text-decoration:none;}
 
    .map-responsive{
        overflow:hidden;
