@@ -107,22 +107,13 @@ textarea {
   .floor li {list-style:none; background:#fff; padding:1em; border:1px solid #999; border-radius:3px; margin-bottom:1em;}
   .dude {background:#FF5C39; color:#fff; padding:0.5em; float:right; border-radius:20px; text-decoration:none;}
 
-   .map-responsive{
-       overflow:hidden;
-       padding-bottom:100%;
-       position:relative;
-       height:0;
-       background: url(../img/MapBG.png);
-   }
-   .map-responsive iframe{
-       left:0;
-       top:0;
-       height:100%;
-       width:100%;
-       position:absolute;
-   }
+   .build {background:#FF5C39; position:absolute; top:50%; left:25%; padding:1em; color:#FF5C39;}
+   .plan {background:#FF5C39; position:absolute; top:15%; left:10%; width:75%; height:500px; padding:1em; color:#FF5C39;}
 
-
+   .close {float: left;
+height: 50px;
+margin-top: 13px;
+margin-right: 10px;}
 
 
 
